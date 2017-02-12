@@ -1,3 +1,11 @@
+--[[
+Ladder hole digging program found here: http://pastebin.com/YgAui7aC
+Forum thread: http://www.computercraft.info/forums2/index.php?/topic/6686-haj523s-turtle-programs/
+
+TODO:
+Current version works nicely but needs to return if it runs out of wall blocks
+]]
+
 local tArgs = { ... }
 
 --Check for Valid Args
